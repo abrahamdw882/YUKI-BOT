@@ -1,6 +1,12 @@
 ------------
-NEW MODULES:
-https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz/file
+<h1 align="center">Welcome<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">YUKI-BOT</p>
+<div align="center">
+<img src="https://telegra.ph/file/6f75f7355170101e5e377.jpg" width="150" height="150" border="0" alt="PFFP">
+
+<br> HALO WELCOME DI SC YUKI BOT, KALIAN INSTALL DULU MODULE NYA SENDIRI
+
+<a href="https://chat.whatsapp.com/BpuUbEx8niML0pmEqkbp8L"> <img src="https://img.shields.io/badge/whatsapp-Support_Group-blue?style=social&logo=whatsapp" alt="support" /></a>
 -------------
 
 ## UNTUK PENGGUNA HEROKU
@@ -83,19 +89,8 @@ $ node .
 ---------
 
 
-Ada Yg Error?Langsung Chat
-https://wa.me/17608914335
-
-error pas install module?
-coba module dibawah ini
-
-via MediaFire:
-(ntar update kalau kelar)
-
-via github:
-(ntar update kalau kelar)
-
-NOTE: UBAH APIKEY DI CONFIG.JS
+jika ada error/bug apapun silahkan chat owner yuki
+https://wa.me/6285795586847
 
 SUPPORT RUN?
 TERMUX,HEROKU,RDP,PANEL,REPLIT,RAILWAY,OKTETO
